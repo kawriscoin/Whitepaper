@@ -1,0 +1,2 @@
+# Whitepaper
+Kawris Coin Whitepaper
